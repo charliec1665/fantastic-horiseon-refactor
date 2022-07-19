@@ -5,11 +5,13 @@
 }
 
 /* Body Begins Here */
+
 body {
     background-color: #d9dcd6;
 }
 
 /* Header Begins Here */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,6 +55,7 @@ a {
 
 
 /* Hero Image Here */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +66,7 @@ a {
 }
 
 /* Main Content Begins Here */
+
 p {
     font-size: 16px;
 }
@@ -133,6 +137,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer Begins Here */ 
 
 .footer {
     padding: 30px;
