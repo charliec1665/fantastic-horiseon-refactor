@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* Renamed div to nav to correlate with HTML in the header */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
