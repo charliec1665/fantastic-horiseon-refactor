@@ -14,6 +14,18 @@ While editing the HTML I also checked to ensure that the header elements were in
 While the styling for the webpage all worked correctly, some of the styles were formed into multiple classes that were repetitive and unnecessary. I summed up the repeated style code into a single class called and updated the HTML. 
 These changes were done in the main information section and in the benefits section.
 
+## Link
+
+https://github.com/charliec1665/fantastic-horiseon-refactor
+
+## Screenshots of Finished Application
+
+![Screenshot of the Horiseon website header and hero image](./assets/images/screenshot_1.png "Screenshot 1")
+
+![Screenshot of the Horiseon website main content](./assets/images/screenshot_2.png "Screenshot 2")
+
+![Screenshot of the Horiseon website main content and footer](./assets/images/screenshot_3.png "Screenshot 3")
+
 ## Acknowledgements
 
 The starting code for this project was cloned from Xandromus (Xander Rapstine) on Github. https://github.com/Xandromus
